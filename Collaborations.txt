@@ -1,0 +1,8 @@
+To check what I could do with inheritance I googled overriding methods. 
+https://www.geeksforgeeks.org/overriding-in-java/
+I checked how Math.random() worked on google
+https://www.educative.io/edpresso/how-to-generate-random-numbers-in-java
+Google helped me out as well to figure out how to delay the execution of code
+https://www.baeldung.com/java-delay-code-execution
+
+Oliver Tullio helped me test run this project.
